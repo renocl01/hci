@@ -13,20 +13,33 @@ keywords: netapp, hci, on premise, cloud services, mnode, management services
 :imagesdir: ./media/
 
 [.lead]
-FIX Before you use NetApp HCI in the cloud, your cloud administrator should have prepared networking and completed other requirements.​
+Using the NetApp Hybrid Cloud Control, you can update management services frequently and easily.
 
+== Types of management services
+NetApp HCI enables you to update the following types of management services:
 
 *	abc
 *	abc
 *	abc
+
+== Management service listing
+
 *	abc
 *	abc
 *	abc
 
-== Browser requirements
-*	abc
-*	abc
-*	abc
+[cols=2*,options="header",cols="40,30"]
+|===
+
+| Management service
+| Availability date
+
+| AWS | August 1, 2019]
+
+| abc | August 1, 2019]
+
+| abc | July 11, 2019]
+
 
 [discrete]
 == Top Links
