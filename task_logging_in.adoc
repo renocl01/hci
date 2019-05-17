@@ -23,20 +23,6 @@ You can log in to NetApp Cloud Data Services to access the NetApp HCI service fr
 
 
 
-*	nnn
-*	mmm
-*	nnn
-*	nnn
-*	abc
-*	nnn
-
-== What happens behind the scenes?
-
-Behind the scenes, NetApp HCI creates a bootstrap agent that establishes the initial communication tunnel to the NetApp Kubernetes Service Controller, builds a temporary bootstrap cluster, and creates a service cluster. The service cluster, connected to NetApp Kubernetes Service, acts as a service orchestrator to deploy services and update itself.
-
-The NetApp Kubernetes Service agent maintains the tunnel, creates user clusters, and maintains previously deployed services.
-
-
 
 [discrete]
 == Top Links

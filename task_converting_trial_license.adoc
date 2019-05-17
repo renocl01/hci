@@ -1,0 +1,42 @@
+---
+sidebar: sidebar
+permalink: task_converting_trial_license.html
+summary: Convert your Cloud Volumes trial license to a production license.
+keywords: netapp, hci, on premise, cloud services
+---
+
+= Converting your trial license to a production license
+:hardbreaks:
+:nofooter:
+:icons: font
+:linkattrs:
+:imagesdir: ./media/
+
+[.lead]
+When you first enable Cloud Services on NetApp HCI, the installation process enables a 90-day trial license for the NetApp Cloud Volumes Service backend. After that time elapses, you must convert the trial license to a production license for continued use.
+
+Information about your license appears in the NetApp Hybrid Cloud Control banner.
+
+You can upload the NetApp license file (.nlf) using NetApp Hybrid Cloud Control.
+== Steps
+
+. Open a web browser and log in to https://cloud.netapp.com[NetApp Cloud Central^].
+. Access the NetApp Hybrid Cloud Control [include link to Accessing HCC topic.]
+. From the NetApp Hybrid Cloud Control banner, click the *Upload a license* link.
++The NetApp Cloud Central page appears: [goes to https://cloud.netapp.com/pricing]
+. From the NetApp Cloud Central page, update the license information.
++The updated license information is displayed in the NetApp Cloud Control banner.
+
+
+
+[discrete]
+== Top Links
+* link:cloud_volumes_service/snapshot_cloud_volumes.html[Durability, Availability, Encryption and Snapshots on Cloud Volumes Service]
+* link:cloud_volumes_ontap/networking_cloud_volumes_ontap.html[NetApp Cloud Volumes ONTAP And Enhanced Networking Support]
+* link:NPS/gdpr_and_hybrid_cloud.html[GDPR and Hybrid Cloud: A More Perfect Union]
+
+[discrete]
+== Find more information
+
+* https://cloud.netapp.com/home[NetApp Cloud Central^]
+* https://www.netapp.com/us/forms/campaign/register-for-netapp-cloud-volumes-for-aws.aspx?hsCtaTracking=4f67614a-8c97-4c15-bd01-afa38bd31696%7C5e536b53-9371-4ce1-8e38-efda436e592e[Get a first look at the new NetApp Cloud Volumes Service for AWS^]

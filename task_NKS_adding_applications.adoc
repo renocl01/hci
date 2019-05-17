@@ -19,6 +19,8 @@ After you create your Kubernetes cluster, you can easily add any number of appli
 
 . Log in to NetApp Kubernetes Service.
 . To add an application to your existing Kubernetes cluster, click *Solutions*.
+. Click the application.
+. Configure the application. 
 
 .Results
 NetApp Kubernetes Service adds the applications to your cluster.

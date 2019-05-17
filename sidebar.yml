@@ -17,9 +17,9 @@ entries:
         url: /concept_gettingstarted.html
       - title: Before you begin
         url: /reference_beforeyoubegin.html
-  - title: Deploying NetApp HCI
+  - title: Deploying cloud services on NetApp HCI
     entries:
-    - title: Deploying NetApp HCI in the cloud
+    - title: Deploy cloud services on NetApp HCI overview
       url: /task_deploying_overview.html
     - title: Enabling cloud services using NetApp Hybrid Cloud Control
       url: /task_enabling_cloud_services.html
@@ -29,12 +29,14 @@ entries:
       url: /task_logging_in.html
     - title: Creating cloud volumes using Cloud Volumes Service
       url: /task_cvs_create_cloud_volumes.html
+    - title: Converting your trial license to a production license
+      url: /task_converting_trial_license.html
   - title: Managing clusters and NetApp HCI cloud volumes
     entries:
     - title: Managing Kubernetes clusters and NetApp HCI cloud volumes
       url: /concept_managing_overview.html
     - title: Adding applications to your Kubernetes clusters
-      url: /task_NKS_adding_application.html
+      url: /task_NKS_adding_applications.html
   - title: Updating management services
     entries:
     - title: Updating management services with the management node
