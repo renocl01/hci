@@ -33,7 +33,7 @@ entries:
       url: /task_converting_trial_license.html
   - title: Managing clusters and NetApp HCI cloud volumes
     entries:
-    - title: Managing Kubernetes clusters and NetApp HCI cloud volumes
+    - title: Managing NetApp HCI cloud volumes overview
       url: /concept_managing_overview.html
     - title: Adding applications to your Kubernetes clusters
       url: /task_NKS_adding_applications.html
