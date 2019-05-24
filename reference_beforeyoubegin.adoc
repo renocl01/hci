@@ -23,6 +23,7 @@ Before you use NetApp HCI in the cloud, your cloud administrator should have pre
 *	abc
 *	abc
 *	abc
+* cde
 
 == Browser requirements
 *	abc
