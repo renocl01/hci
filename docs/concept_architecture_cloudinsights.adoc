@@ -15,7 +15,7 @@ keywords: netapp, hci, on premise, cloud services, cloud insights
 [.lead]
 You can quickly ascertain the health of your cloud services on NetApp HCI with NetApp Cloud Insights.
 
-THIS DOCUMENTATION IS PROVIDED AS A TECHNOLOGY PREVIEW. 
+THIS DOCUMENTATION IS PROVIDED AS A TECHNOLOGY PREVIEW.
 
 NetApp Cloud Insights monitors compute, network, storage stack and application statuses for multi-vendor, heterogenous services and now provides analytics on many cloud services, including on NetApp HCI.
 
@@ -31,7 +31,7 @@ You can see information like this:
 
 == The Cloud Insights Dashboard
 This NetApp Cloud Insights Dashboard shows analytics for NetApp Kubernetes Service clusters and pods.
-image:cloudinsights_K8S_overview.png[Cloud Insights dashboard image]
+image:ci_hci_data_collector.png[Cloud Insights dashboard image]
 
 == A unique NetApp HCI Data Collector
 
