@@ -2,7 +2,7 @@
 sidebar: solutions_sidebar
 permalink: solutions/nhci_containers_anthos.html
 summary: An introduction to containers on NetApp HCI with Anthos
-keywords: hci, containers, anthos, kubernetes, google
+keywords: HCI, containers, Anthos, kubernetes, Google
 ---
 
 = NetApp HCI with Anthos
